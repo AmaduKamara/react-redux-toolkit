@@ -5,7 +5,7 @@ The fundamentals to learning Redux Toolkit with React by building a counter app 
 - Maximillian Schwarzmuller - Udemy Instructor
 
 ## Author 2:
-- Amadu Kamara
+- Amadu Kamara (Amkam)
 
 
 ## App screenshots
